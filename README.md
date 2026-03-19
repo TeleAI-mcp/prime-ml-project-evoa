@@ -1,2 +1,3 @@
-# prime-ml-project-evoa
+# Prime Ml Project Evoa
+
 A repository to test GitHub automation for issue management.
